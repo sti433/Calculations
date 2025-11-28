@@ -1,9 +1,11 @@
-# Calculations
-پروژه Calculations یک برنامه کاربردی نوشته شده به زبان C# است. این مخزن شامل سورس کد برنامه برای انجام عملیات محاسباتی می‌باشد.
+🧮 Calculations Project (C# Console Application)
 
-## 📋 درباره پروژه
-این پروژه به عنوان یک برنامه کنسولی (Console Application) طراحی شده است و منطق اصلی برنامه در فایل Program(2).cs قرار دارد. هدف اصلی آن پیاده‌سازی الگوریتم‌ها یا توابع محاسباتی است.
+The Calculations project is a practical and lightweight application written in C#.
+This repository contains the complete source code used to perform various computational operations.
 
-## 🚀 راهنمای نصب و اجرا
+📋 About the Project
 
-برای اجرای این کدها روی سیستم خود، به .NET SDK نیاز دارید.
+This project is built as a Console Application, keeping the structure simple and efficient.
+The main logic of the program is located in the Program(2).cs file, where the core algorithms and calculation functions are implemented.
+
+It is designed to demonstrate how different computational tasks can be executed cleanly within a C# console environment.
